@@ -1,5 +1,6 @@
 # Task-Scheduling-in-Heterogeneous-Computing-Environments
-# please read our paper:  10.48550/arXiv.2405.08187
+
+Please read our paper: https://arxiv.org/abs/2405.08187
 ## Overview
 
 This study provides valuable insights into the efficacy of task scheduling algorithms in heterogeneous computing environments, enabling informed decision-making to enhance resource allocation, minimize task completion times, and improve energy efficiency.
